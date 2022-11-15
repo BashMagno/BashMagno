@@ -22,7 +22,7 @@
 <br />
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <br />
-![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
+![Profile View Counter](https://komarev.com/ghpvc/?username=AlejandroHiguera)
 <br />
 
 <hr />
