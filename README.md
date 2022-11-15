@@ -26,5 +26,5 @@
 ---
 ## -----> Un chiste para alegrar el día ^^ 🤣
 > ![Jokes Card](https://readme-jokes.vercel.app/api)
-<hr />
+
  
