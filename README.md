@@ -2,16 +2,16 @@
 <hr>
 
 ## ----> Estudios 📖
-<br />
-----> Actualmente estudiando DAM (1er Año). 🖥️
-<br />
-----> Preparandome para el eJPT (Diciembre 2022 me examino). 🖤
-<br />
-----> Creando una página web desde 0 para Katharsis&Co. 💻
-<br />
-----> Bachillerato Ciencias. 💯
-<br />
-<br />
+> <br />
+> ----> Actualmente estudiando DAM (1er Año). 🖥️
+> <br />
+> ----> Preparandome para el eJPT (Diciembre 2022 me examino). 🖤
+> <br />
+> ----> Creando una página web desde 0 para Katharsis&Co. 💻
+> <br />
+> ----> Bachillerato Ciencias. 💯
+> <br />
+> <br />
 <hr>
 
 ## ----> Estadísticas de Github 🆕
