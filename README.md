@@ -20,11 +20,11 @@
 > <br />
 > [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroHIguera&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 > <br />
-> ![Jokes Card](https://readme-jokes.vercel.app/api)
+> ![Profile View Counter](https://komarev.com/ghpvc/?username=AlejandroHiguera)
 > <br />
 
 ---
-> ![Profile View Counter](https://komarev.com/ghpvc/?username=AlejandroHiguera)
+> ![Jokes Card](https://readme-jokes.vercel.app/api)
 <br />
 
 <hr />
