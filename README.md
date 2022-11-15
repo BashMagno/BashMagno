@@ -19,7 +19,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejandroHiguera&show_icons=true&theme=radical) 
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroHIguera&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+<br />
+![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
+<br />
 
 <hr />
  
