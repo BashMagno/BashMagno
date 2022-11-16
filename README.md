@@ -7,6 +7,8 @@
 > <br />
 > ----> Preparandome para el eJPT (Diciembre 2022 me examino). 🖤
 > <br />
+> ----> Preparandome para el eWPTXv2 (Verano 2023 me examino). 🖤
+> <br />
 > ----> Creando una página web desde 0 para Katharsis&Co. 💻
 > <br />
 > ----> Bachillerato Ciencias. 💯
