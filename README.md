@@ -18,11 +18,11 @@
 
 ## ----> Estadísticas de Github 🆕
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlejandroHiguera&show_icons=true&theme=radical) 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BashMagno&show_icons=true&theme=radical) 
  <br />
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroHIguera&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BashMagno&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-![Profile View Counter](https://komarev.com/ghpvc/?username=AlejandroHiguera)
+![Profile View Counter](https://komarev.com/ghpvc/?username=BashMagno)
  <br />
 
 ---
