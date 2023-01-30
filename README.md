@@ -22,8 +22,10 @@
  <br />
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BashMagno&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-![Profile View Counter](https://komarev.com/ghpvc/?username=BashMagno)
- <br />
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
 
 ---
 ## -----> Un chiste para alegrar el día ^^ 🤣
