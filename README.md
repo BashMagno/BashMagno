@@ -3,7 +3,7 @@
 
 ## ----> Estudios 📖
 > <br />
-> ----> Actualmente estudiando DAM (1er Año). 🖥️
+> ----> Actualmente estudiando DAM (2º Año). 🖥️
 > <br />
 > ----> eJPT aprobado 💭
 > <br />
@@ -12,6 +12,9 @@
 > ----> Creando una página web desde 0 para Katharsis&Co. 💻
 > <br />
 > ----> Bachillerato Ciencias. 💯
+> <br />
+> <br />
+> ----> Telefónica 42¿?
 > <br />
 > <br />
 <hr>
