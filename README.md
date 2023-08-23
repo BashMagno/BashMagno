@@ -1,15 +1,15 @@
-# ❗ Bienvenid@ a mi perfil. Soy Alejandro Higuera Moreno. 🖖 ❗
+# ❗ WELCOME TO MY PROFILE🖖 ❗
 <hr>
 
-## ----> Estudios 📖
+## ----> Studies 📖
 > <br />
-> ----> Actualmente estudiando DAM (2º Año). 🖥️
+> ----> Right now studying DAM (Multiplatform Application Developer) (2º Year). 🖥️
 > <br />
-> ----> eJPT aprobado 💭
+> ----> eJPT certification passed 💭
 > <br />
-> ----> Preparandome para el eCPPT_v2 (Verano 2023 me examino). 🖤
+> ----> Studying for the eCPPT_v2 certification . 🖤
 > <br />
-> ----> Creando una página web desde 0 para Katharsis&Co. 💻
+> ----> Full stack developer for Katharsis&Co. 💻
 > <br />
 > ----> Bachillerato Ciencias. 💯
 > <br />
@@ -19,7 +19,7 @@
 > <br />
 <hr>
 
-## ----> Estadísticas de Github 🆕
+## ----> Github Stats🆕
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BashMagno&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br />
