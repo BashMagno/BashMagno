@@ -3,7 +3,7 @@
 
 ## ----> Studies 📖
 > <br />
-> ----> Right now studying DAM (Multiplatform Application Developer) (2º Year). 🖥️
+> ----> Right now studying DAM (Multiplatform Application Developer) (2º Year). 🖥️ 💭(Ingeniería de Software)
 > <br />
 > ----> eJPT certification passed 💭
 > <br />
