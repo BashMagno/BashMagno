@@ -21,7 +21,7 @@
 
 ## ----> Github Stats🆕
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BashMagno&langs_count=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BashMagno&langs_count=7)
 
 <br />
 <p align="center"> 
