@@ -11,8 +11,6 @@
 > <br />
 > ----> Full stack developer for Katharsis&Co. 💻
 > <br />
-> ----> Bachillerato Ciencias. 💯
-> <br />
 > <br />
 > ----> Telefónica 42¿?
 > <br />
