@@ -1,4 +1,4 @@
-# ❗ WELCOME TO MY PROFILE🖖 ❗
+# 𝓑 𝓪 𝓼 𝓱 𝓜 𝓪 𝓰 𝓷 𝓸
 <hr>
 
 ## ----> Studies 📖
