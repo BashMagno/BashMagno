@@ -3,16 +3,11 @@
 
 ## ----> Studies 📖
 > <br />
-> ----> 🖥️ 💭(Ingeniería de Software)
+> ----> Ingeniería de Software
 > <br />
 > ----> eJPT certification passed 💭
 > <br />
-> ----> Studying for the eCPPT_v2 certification . 🖤
-> <br />
-> ----> Full stack developer for Katharsis&Co. 💻
-> <br />
-> <br />
-> ----> Telefónica 42¿?
+> ----> eCPPT_v2 certification . 🖤
 > <br />
 > <br />
 <hr>
