@@ -3,7 +3,7 @@
 
 ## > Studies 📖
 > <br />
-> ----> Ingeniería de Software
+> ----> Software Engineering
 > <br />
 > ----> eJPT certification passed 💭
 > <br />
