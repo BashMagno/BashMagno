@@ -1,7 +1,7 @@
 # 𝓑 𝓪 𝓼 𝓱 𝓜 𝓪 𝓰 𝓷 𝓸
 <hr>
 
-## ----> Studies 📖
+## > Studies 📖
 > <br />
 > ----> Ingeniería de Software
 > <br />
@@ -12,10 +12,10 @@
 > <br />
 <hr>
 
-## ----> Github Stats🆕
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BashMagno&langs_count=7)
-
+## > Github Stats🆕
+<p align="center"> 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BashMagno&langs_count=7)
+</p>
 <br />
 <p align="center"> 
   Visitor count<br>
