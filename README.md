@@ -14,9 +14,9 @@
 
 ## > Github Stats🆕
 
-<p align="center"> 
+<span align="center"> 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BashMagno&langs_count=7)
-</p>
+</span>
 
 <br />
 <p align="center"> 
